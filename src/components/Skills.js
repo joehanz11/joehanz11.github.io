@@ -4,7 +4,7 @@ import 'react-multi-carousel/lib/styles.css';
 import arrow1 from "../assets/img/arrow1.svg";
 import arrow2 from "../assets/img/arrow2.svg";
 import colorSharp from "../assets/img/color-sharp.png"
-import Certificate from "../assets/img/Certificate.png"
+
 
 export const Skills = () => {
   const responsive = {
@@ -38,7 +38,7 @@ export const Skills = () => {
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                         <div>
                           <table>
-                            <img src={Certificate} alt="certificate" />
+                      
 
                             
                             
