@@ -37,16 +37,7 @@ export const Skills = () => {
                         <p>Shabu<br></br> Tara</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                         <div>
-                          <table>
-                      
-
-                            
-                            
-                            
-
-
-
-                          </table>
+                          <table></table>
                         </div>
                         </Carousel>
                     </div>
